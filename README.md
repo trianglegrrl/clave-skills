@@ -1,6 +1,6 @@
 # clave-skills
 
-Marketplace for the [clave](../claw) assistant hub. Each plugin lives in its own repo and is
+Marketplace for the [clave](../../clave) assistant hub. Each plugin lives in its own repo and is
 listed in `.claude-plugin/marketplace.json`; this repo is only the catalog.
 
 Install in Claude Code:
