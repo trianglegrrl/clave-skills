@@ -1,13 +1,13 @@
-# claw-skills
+# clave-skills
 
-Marketplace for the [claw](../claw) assistant hub. Each plugin lives in its own repo and is
+Marketplace for the [clave](../claw) assistant hub. Each plugin lives in its own repo and is
 listed in `.claude-plugin/marketplace.json`; this repo is only the catalog.
 
 Install in Claude Code:
 
 ```
-/plugin marketplace add trianglegrrl/claw-skills
-/plugin install mms-assistant@claw
+/plugin marketplace add trianglegrrl/clave-skills
+/plugin install mms-assistant@clave
 ```
 
 Add a domain by publishing a plugin repo (`.claude-plugin/plugin.json` + `skills/<name>/SKILL.md`,

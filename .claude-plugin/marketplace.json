@@ -1,7 +1,7 @@
 {
-  "name": "claw",
+  "name": "clave",
   "owner": { "name": "trianglegrrl" },
-  "metadata": { "description": "Skill pack for the claw assistant hub: one plugin per domain." },
+  "metadata": { "description": "Skill pack for the clave assistant hub: one plugin per domain." },
   "plugins": [
     {
       "name": "mms-assistant",
