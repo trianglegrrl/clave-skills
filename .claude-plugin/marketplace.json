@@ -1,0 +1,12 @@
+{
+  "name": "claw",
+  "owner": { "name": "trianglegrrl" },
+  "metadata": { "description": "Skill pack for the claw assistant hub: one plugin per domain." },
+  "plugins": [
+    {
+      "name": "mms-assistant",
+      "source": { "source": "github", "repo": "trianglegrrl/mms-assistant" },
+      "description": "MyMusicStaff student portal: lessons, teacher notes, practice logging via agent-browser."
+    }
+  ]
+}
