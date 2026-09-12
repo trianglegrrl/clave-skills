@@ -1,12 +1,27 @@
 {
   "name": "clave",
-  "owner": { "name": "trianglegrrl" },
-  "metadata": { "description": "Skill pack for the clave assistant hub: one plugin per domain." },
+  "owner": {
+    "name": "trianglegrrl"
+  },
+  "metadata": {
+    "description": "Skill pack for the clave assistant hub: one plugin per domain."
+  },
   "plugins": [
     {
       "name": "mms-assistant",
-      "source": { "source": "github", "repo": "trianglegrrl/mms-assistant" },
+      "source": {
+        "source": "github",
+        "repo": "trianglegrrl/mms-assistant"
+      },
       "description": "MyMusicStaff student portal: lessons, teacher notes, practice logging via agent-browser."
+    },
+    {
+      "name": "home-assistant",
+      "source": {
+        "source": "github",
+        "repo": "trianglegrrl/home-assistant-skill"
+      },
+      "description": "Home Assistant: lights, locks, thermostat, any entity via the REST API."
     }
   ]
 }
