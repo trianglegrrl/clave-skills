@@ -22,6 +22,14 @@
         "repo": "trianglegrrl/home-assistant-skill"
       },
       "description": "Home Assistant: lights, locks, thermostat, any entity via the REST API."
+    },
+    {
+      "name": "geary-ave",
+      "source": {
+        "source": "github",
+        "repo": "trianglegrrl/geary-ave-skill"
+      },
+      "description": "Geary Ave Rehearsal Studios: availability, free rooms and gear, booking to the Stripe link, via the site's booking API."
     }
   ]
 }

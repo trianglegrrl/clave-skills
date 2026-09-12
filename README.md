@@ -11,4 +11,4 @@ Install in Claude Code:
 ```
 
 Add a domain by publishing a plugin repo (`.claude-plugin/plugin.json` + `skills/<name>/SKILL.md`,
-see mms-assistant for the shape) and appending it to `plugins` here. Plugins: `mms-assistant`, `home-assistant`.
+see mms-assistant for the shape) and appending it to `plugins` here. Plugins: `mms-assistant`, `home-assistant`, `geary-ave`.
